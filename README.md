@@ -15,10 +15,6 @@ Bu proje, verilen bir dersin içeriğini otomatik olarak tarayıp PDF formatınd
 
 1. **Depoyu Klonlayın:**
 
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
 
 2. **Gerekli Paketleri Yükleyin:**
 
